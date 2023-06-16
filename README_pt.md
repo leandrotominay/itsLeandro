@@ -8,7 +8,7 @@
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Desenvolvedor Fullstack e Estudante na Universidade Cidade de São Paulo [UNICID](www.unicid.edu.br/)\
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Amor por ciência e inovação.\
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Apaixonado por resolução de problemas e automação.\
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Programando desde 2020 com 2+ anos de experiência em desenvolvimento.\
+&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Programando desde 2020 com 2+ anos de experiência em desenvolvimento.
 
 <p align="center">
   <a href="mailto:ramosleandro53@gmail.com?subject=Olá%20Leandro%20Ramos"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
