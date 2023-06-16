@@ -64,7 +64,7 @@ linux
 </details>
 
 <details>
-  <summary><b>:brain: &nbsp;Outros conhecimentos, sempre melhorando!</b></summary>
+  <summary><b>:brain: &nbsp;Outros conhecimentos, sempre aprendendo!</b></summary>
   <br/>
 
 ![NodeJS](https://img.shields.io/badge/NODEJS-339933.svg?&style=flat&logo=node.js&logoColor=white)&nbsp;\
