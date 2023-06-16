@@ -3,6 +3,8 @@
  <tr><td><a href="README_pt.md"><img src="br-flag.png" height="13"> Português</a></td></tr>
 </table>
 
+# Olá! :wave:
+
 ### :space_invader: &nbsp;Sobre mim
 
 &nbsp;&nbsp;&nbsp;:seedling: &nbsp;Desenvolvedor Fullstack e Estudante na Universidade Cidade de São Paulo [UNICID](www.unicid.edu.br/)\
