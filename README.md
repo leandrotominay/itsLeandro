@@ -1,6 +1,6 @@
 <table align="right">
- <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
- <tr><td><a href="README_pt.md"><img src="images/br-flag.png" height="13"> Português</a></td></tr>
+ <tr><td><a href="README.md"><img src="us-flag.png" height="13"> English</a></td></tr>
+ <tr><td><a href="README_pt.md"><img src="br-flag.png" height="13"> Português</a></td></tr>
 </table>
 
 ### :space_invader: &nbsp;About Me
@@ -24,6 +24,7 @@
 ![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
 ![Spring](https://img.shields.io/badge/SPRING-6DB33F.svg?&style=flat&logo=spring&logoColor=white)&nbsp;
 ![Hibernate](https://img.shields.io/badge/HIBERNATE-121011.svg?&style=flat&logo=red-hat&logoColor=white)&nbsp;\
+![Struts](https://img.shields.io/badge/-Struts-lightgrey)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
 ![REACT](https://img.shields.io/badge/-React-blue)&nbsp; 
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
