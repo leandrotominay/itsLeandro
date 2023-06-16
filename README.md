@@ -3,7 +3,7 @@
  <tr><td><a href="README_pt.md"><img src="br-flag.png" height="13"> Português</a></td></tr>
 </table>
 
-# Hi everyone :wave:
+# Hi there! :wave:
 
 ### :space_invader: &nbsp;About Me
 
