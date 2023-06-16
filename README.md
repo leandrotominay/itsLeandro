@@ -75,6 +75,6 @@ linux
 ![SASS](https://img.shields.io/badge/SASS-CC6699.svg?&style=flat&logo=sass&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?&style=flat&logo=php&logoColor=white)&nbsp;\
 ![PHOTOSHOP](https://img.shields.io/badge/PHOTOSHOP-31A8FF.svg?&style=flat&logo=adobe-photoshop&logoColor=white)&nbsp;
-![ILLUSTRATOR](https://img.shields.io/badge/ILLUSTRATOR-FFAE1A.svg?&style=flat&logo=adobe-illustrator&logoColor=black)&nbsp;\
+![ILLUSTRATOR](https://img.shields.io/badge/ILLUSTRATOR-FFAE1A.svg?&style=flat&logo=adobe-illustrator&logoColor=black)&nbsp;
 
 </details>
