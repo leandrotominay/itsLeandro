@@ -13,7 +13,7 @@
 &nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2020 with 2+ years of experience in development.
 
 <p align="center">
-  <a href="mailto:ramosleandro53@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:ramosleandro53@gmail.com?subject=Hello%20Leandro%20Ramos"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/leandro-frco/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
